@@ -9,7 +9,7 @@ The objective of this task is to understand how Docker handles **data persistenc
 ## 🛠 Tools Used
 
 * Docker (CLI)
-* OS: Linux / Windows / macOS
+* OS: Linux
 
 ---
 
